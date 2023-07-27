@@ -3,7 +3,9 @@
 ---
 
 **Important**
-Need to set the ibft rootchain details in polygon-edge.sh
+
+Need to set the IBFT rootchain details in polygon-edge.sh
+
 Path - docker/local/polygon-edge.sh
 
 ```bash
